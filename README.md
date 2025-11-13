@@ -1,2 +1,2 @@
-# Hala-noir-mobile.
+# green-haven
 Aplicație de test Flutter pentru exercițiu personal.
